@@ -6,13 +6,13 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### Lien 1 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Genshin Impact](https://www.youtube.com/watch?v=HLUY1nICQRY&pp=ygUWZ2Vuc2hpbiBpbXBhY3QgdHJhaWxlcg%3D%3D) 
+Cet oeuvre m'a beaucoup impressioner car le monde de l'oeuvre est fascinant. 
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+### [Pixiv](https://www.pixiv.net/) 
+Pixiv m'aide a découvrir des arts Anime sur l'internet 
 
-### Lien 3 
+###  
 Expliquer pourquoi vous avez choisi ce lien.  
 
 ### Lien 4 
