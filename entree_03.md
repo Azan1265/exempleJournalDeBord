@@ -2,19 +2,19 @@
 ## Plan de carrière
 
 ### Présentation
-Parlez de vous. 
+je m'interesse aux ordinateurs pour avoir un bon métier. 
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Photoshop,logiciels web,audio  
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+programmeur et éditeur
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+il y aucune personne que je l'indentifie 
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Je ne suis pas trops sur 
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'aimerais photoshoper une image 
