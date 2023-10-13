@@ -5,5 +5,5 @@ Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutorie
 
 ## Pourquoi j'ai choisi l'intégration multimédia
 
-J'ai choisis Technique d'Intégration Multimédia parce que mon ancien enseignant de secondaire me la suggérer car elle croyait que ce programme était plus compatible avec moi.
+J'ai choisis Technique d'Intégration Multimédia parce que mon ancien enseignant de secondaire me la suggérer car elle croyait que ce programme était plus compatible avec moi. De plus, je n'aime pas travailler physiquement et je préfère de travailler sur un écran.
 
