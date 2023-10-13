@@ -2,17 +2,17 @@
 ## Rétrospective de l'examen (1 à 2 lignes par question)
 
 ### Points forts de la préparation à l'examen
-Nommer deux points forts de votre préparation à l'examen. 
+Bien étudier chaque jour, concentré sur mes études. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+De les retenir dans ma mémoire et de ne pas être distraire. 
 
 ### Gestion du temps
-Comment avez-vous géré votre temps lors de l'examen?
+j'ai pris mon temps à répondre aux questions.
 
 ### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+l'internet et des screenshots dans mon cellulaire.
 
 ### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
+certaines questions m'ont donné de la difficultée comme ceux des hard drives.
 
