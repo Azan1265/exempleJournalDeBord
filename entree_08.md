@@ -3,14 +3,14 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+je présente une idée de jeux à Ubisoft, de type stratégie rts.   
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+des modèles 3D seront utilisés pour le jeux.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+concept dessins, programation, modèles 3D, animation 3D, textures, finalisation
 
